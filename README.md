@@ -43,12 +43,6 @@ I’m a software developer and second-year Computer Science student, focused on 
   <a href="https://linkedin.com/in/www.linkedin.com/in/amira-bakkouche" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=amira25201&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
-</p>
-
 ### 💭 Dev Quote
 
 <p align="center">
