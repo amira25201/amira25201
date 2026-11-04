@@ -16,7 +16,7 @@ I’m a software developer and second-year Computer Science student, focused on 
 👯 &nbsp;I'm looking to collaborate on **apps that help people**  
 💬 &nbsp;Ask me about **full-stack development, machine learning or building apps from scratch**  
 😄 &nbsp;Pronouns: **she/her**  
-⚡ &nbsp;Fun fact: **I’ll learn a new programming language just out of curiosity**
+⚡ &nbsp;Fun fact: **I learn quickly, and I learn best by building something with it straight away.**
 
 ### 🛠️ Tech Stack
 
