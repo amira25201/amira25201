@@ -12,9 +12,9 @@
 
 I’m a software developer and second-year Computer Science student, focused on building full-stack applications end to end. I care about shipping software real people actually use, and understanding a problem well enough to build the right solution, not just the first one that works.
 
-🔭 &nbsp;I'm currently working on **A SATs practice app that targets each pupil’s weakest topics**  
-👯 &nbsp;I'm looking to collaborate on **Apps that help people**  
-💬 &nbsp;Ask me about **Full-stack development, machine learning or building apps from scratch**  
+🔭 &nbsp;I'm currently working on **a SATs practice app that targets each pupil’s weakest topics**  
+👯 &nbsp;I'm looking to collaborate on **apps that help people**  
+💬 &nbsp;Ask me about **full-stack development, machine learning or building apps from scratch**  
 😄 &nbsp;Pronouns: **she/her**  
 ⚡ &nbsp;Fun fact: **I’ll learn a new programming language just out of curiosity**
 
@@ -41,13 +41,6 @@ I’m a software developer and second-year Computer Science student, focused on 
 
 <p align="left">
   <a href="https://linkedin.com/in/www.linkedin.com/in/amira-bakkouche" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=amira25201&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=amira25201&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
 </p>
 
 ### 📈 Contribution Graph
