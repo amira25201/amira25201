@@ -47,7 +47,7 @@ I’m a software developer and second-year Computer Science student, focused on 
 ### 🔗 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/amira-bakkouche" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/amira-bakkouche" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ### 💭 Dev Quote
