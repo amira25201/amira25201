@@ -3,11 +3,11 @@
 
 I’m a software developer, focused on building full-stack applications end to end. I care about shipping software real people actually use, and understanding a problem well enough to build the right solution, not just the first one that works.
 
-🔭  I'm currently working on a learning practice app that targets each pupil’s weakest topics
-👯  I'm looking to collaborate on apps that help people
-💬  Ask me about full-stack development, machine learning or building apps from scratch
-😄  Pronouns: she/her
-⚡  Fun fact: I learn quickly, and I learn best by building something with it straight away.
+🔭  I'm currently working on a learning practice app that targets each pupil’s weakest topics<br>
+👯  I'm looking to collaborate on apps that help people<br>
+💬  Ask me about full-stack development, machine learning or building apps from scratch<br>
+😄  Pronouns: she/her<br>
+⚡  Fun fact: I learn quickly, and I learn best by building something with it straight away.<br>
 
 🛠️ Tech Stack
 <table> <tr> <td><b>Languages</b></td> <td> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /> </td> </tr> <tr> <td><b>Frameworks & Libraries</b></td> <td> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" /> </td> </tr> <tr> <td><b>Databases</b></td> <td> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" /> </td> </tr> <tr> <td><b>Tools</b></td> <td> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" /> </td> </tr> </table>
