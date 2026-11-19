@@ -4,11 +4,11 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,100:f778ba&height=200&section=header&text=Hello!%20I%27m%20Amira&fontSize=54&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="Hello! I'm Amira" />
   </a>
 </p>
+
 <p align="center">
-  <a href="https://github.com/amira25201">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,100:f778ba&height=220&section=header&text=Hello!%20I%27m%20Amira&fontSize=54&fontColor=ffffff&fontAlignY=36&desc=I%20am%20a%20software%20developer%20who%20loves%20building%20real-world%20apps&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Hello! I'm Amira — I am a software developer who loves building real-world apps" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A371F7&center=true&vCenter=true&width=760&lines=I+am+a+software+developer+who+loves+building+real-world+apps" alt="I am a software developer who loves building real-world apps" />
 </p>
+
 ### 🚀 About Me
 
 I’m a software developer, focused on building full-stack applications end to end. I care about shipping software real people actually use, and understanding a problem well enough to build the right solution, not just the first one that works.
