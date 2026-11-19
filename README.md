@@ -12,7 +12,7 @@
 
 I’m a software developer, focused on building full-stack applications end to end. I care about shipping software real people actually use, and understanding a problem well enough to build the right solution, not just the first one that works.
 
-🔭 &nbsp;I'm currently working on **a SATs practice app that targets each pupil’s weakest topics**  
+🔭 &nbsp;I'm currently working on **a learning practice app that targets each pupil’s weakest topics**  
 👯 &nbsp;I'm looking to collaborate on **apps that help people**  
 💬 &nbsp;Ask me about **full-stack development, machine learning or building apps from scratch**  
 😄 &nbsp;Pronouns: **she/her**  
